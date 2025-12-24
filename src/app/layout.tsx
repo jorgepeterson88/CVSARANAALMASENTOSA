@@ -53,7 +53,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <meta name="naver-site-verification" content="jdvh5i23hv0rtcafpfczalw2a8wlsb" />
+        <meta name="naver-site-verification" content="du98ivqpz8a6keujoax2d3o87anhzt" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
